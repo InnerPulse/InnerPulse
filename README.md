@@ -1,4 +1,4 @@
-<img src="https://www.coresentinel.com/wp-content/uploads/2017/06/kali.png">
+<img src="">
 
 ## 👋 Hi there! I'm Alex
 
@@ -31,9 +31,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a >Send me a mail at stoev95pd@gmail.com! I'll try to respond as soon as I can.</a>
-</p>
-
+### 🤝🏻 &nbsp;Connect with Me at stoev95pd@gmail.com! I'll try to respond as soon as I can.
