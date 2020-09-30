@@ -1,4 +1,4 @@
-<img src="https://pasteboard.co/JttDgae.png">
+<img src="https://www.coresentinel.com/wp-content/uploads/2017/06/kali.png">
 
 ## 👋 Hi there! I'm Alex
 
