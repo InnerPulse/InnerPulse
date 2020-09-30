@@ -1,4 +1,4 @@
-<img src="https://www.ibb.co/8BbS49x">
+<img src="https://pasteboard.co/JttDgae.png">
 
 ## 👋 Hi there! I'm Alex
 
