@@ -1,5 +1,3 @@
-<img src="">
-
 ## 👋 Hi there! I'm Alex
 
 ### 👨🏻‍💻 &nbsp;About Me
