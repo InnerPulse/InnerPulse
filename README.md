@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying for a Full Stack Developer at Software University.\
+🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can email me at stoev95pd@gmail.com! I'll try to respond as soon as I can.\
 
