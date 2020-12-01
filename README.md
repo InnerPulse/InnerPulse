@@ -8,8 +8,6 @@
 <br>
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -20,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+PostfreSQL
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -30,4 +29,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me at stoev95pd@gmail.com! I'll try to respond as soon as I can.
+### 🤝🏻 &nbsp;Contact me at stoev95pd@gmail.com! I'll try to respond as soon as I can.
