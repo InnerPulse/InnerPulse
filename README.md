@@ -35,4 +35,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Contact me at stoev95pd@gmail.com I'll respond as soon as I can.
+### 🤝🏻 &nbsp;Contact me at stoev95pd@gmail.com. I'll respond as soon as I can.
