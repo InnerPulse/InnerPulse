@@ -5,6 +5,7 @@
 🎓 &nbsp;I'm currently studying for becoming a Full Stack Web Developer at Software University.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussions.
 <br>
+-- "Surrounded by devils, trying to be an angel..."
 <br>
 
 
