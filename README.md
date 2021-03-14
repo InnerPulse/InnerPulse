@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Alex
 <br>
-🎓 &nbsp;I'm currently studying for becoming a Full Stack Web Developer at Software University.
+🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University.
 
 💬 &nbsp;Feel free to reach out for pro bono consulting and volunteering, or just for some interesting discussions.
 <br>
