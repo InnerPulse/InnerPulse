@@ -2,7 +2,7 @@
 <br>
 🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University.
 
-💬 &nbsp;Feel free to reach out for pro bono consulting and volunteering, or just for some interesting discussions.
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussions.
 <br>
 <br>
 
