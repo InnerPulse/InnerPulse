@@ -29,7 +29,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center">Activity Statistics</h3>
 
