@@ -41,6 +41,5 @@
 ### 🤝🏻 &nbsp;Contact me at stoev95pd@gmail.com. I'll respond as soon as I can.
 
 <br>
-<br>
 
 <p align="right"> --"Surrounded by devils, trying to be an angel."-- </p>
