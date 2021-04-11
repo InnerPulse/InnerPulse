@@ -1,15 +1,18 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Alex
+
 <br>
+
 🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University.
-
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussions.
+
 <br>
 <br>
 
+### 🛠 &nbsp;Tech Stack:
 
+<br>
 
 <p align='center'>
-### 🛠 &nbsp;Tech Stack:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,4 +44,5 @@
 
 <br>
 <br>
+
 <p align="right"> --"Surrounded by devils, trying to be an angel."-- </p>
