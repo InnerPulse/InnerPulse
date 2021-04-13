@@ -3,6 +3,7 @@
 <br>
 
 🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University. <br>
+I'm self-motivated team player, someone who's ambitious and persistent, with good problem solving skills. 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussions.
 
 <br>
