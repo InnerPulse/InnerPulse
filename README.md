@@ -1,7 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Alex
 
-## This is a simple project for exercise purposes I've recently done - https://quizzes-time.github.io/
-
 <br>
 
 🎓 &nbsp;I'm currently studying for a Full Stack Web Developer at Software University. <br>
