@@ -33,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/InnerPulse">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InnerPulse&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InnerPulse&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InnerPulse&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InnerPulse&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
 
